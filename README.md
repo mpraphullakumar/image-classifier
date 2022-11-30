@@ -1,10 +1,10 @@
 # image-classifier
-download the dataset from kaggle and unzip it
+1. download the dataset from kaggle and unzip it
 
-save the dataset in a folder named animals
+2. save the dataset in a folder named animals
 
-upload dataset to google drive
+3. upload dataset to google drive
 
-upload file to google colab
+4. upload file to google colab
 
-run the program
+5. run the program
